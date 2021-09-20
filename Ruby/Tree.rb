@@ -3,10 +3,6 @@ Implementation of General Tree
 Basic Operations implemented
 - add child
 - print tree
-
-assumption: no collision happens
-keys are strings so getting the ascii of characters first, then finding
-the modulo of the result by the length of all items - as hash function
 =end
 
 class Tree
